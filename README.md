@@ -1,7 +1,7 @@
 # Feed-Forward-Deep-learning
 
 This file contains code for feed forward algorithm from scratch,
-dataset used is make-blobs from sklearn
+dataset used is make-blobs from sklearn (this returns n number of clusters of points)(image attached where n = 4)
 
 OUTPUT:-
 For 2 input variables and binary output
